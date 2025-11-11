@@ -14,4 +14,4 @@ jobs:
       - run: pwd
       - run: date
       - run: uptime
-      - run: lsv -release -a
+      - run: lsb -release -a
